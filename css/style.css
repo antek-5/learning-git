@@ -1,0 +1,27 @@
+
+
+
+/* lyrics */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.titles {
+    width: 300px;
+}
+.titles h4 {
+    margin-top: 0;
+}
+.titles h1 {
+    margin-bottom: 10px;
+}
+
+
+.lyrics {
+    width: 300px;
+}
+
